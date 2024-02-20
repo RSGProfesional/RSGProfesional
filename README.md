@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RSGProfesional
-- 👀 I’m interested in Full Stack Developer 
-- 🌱 I’m currently learning HTML5, CSS3, Javascript y Figma 
-- 📫 How to reach me rsgprofesional@gmail.com 
+- 👋 Hola Soy Richard Soto (RSGProfesional)
+- 👀 Estoy interesado en el Diseño y el Desarrollo de páginas web y aplicaciones
+- 🌱 Estoy estudiando HTML5, CSS3, Javascript y Figma 
+- 📫 Puedes contactarme en: rsgprofesional@gmail.com 
 
 <!---
 RSGProfesional/RSGProfesional is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
