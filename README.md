@@ -5,10 +5,8 @@
 
 - 🌱 Estoy formado en: **Html5, CSS3, JavaScript y Figma**
 
-- 📫 Puedes contactarme en: **rsgprofesional@gmail.com**
+- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> Puedes contactarme en: **rsgprofesional@gmail.com**
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
