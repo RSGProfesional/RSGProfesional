@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Richard Soto</h1>
-<h3 align="center">Soy un aprendiz del desarrollo web de Cantabria - España</h3>
+<h3 align="center">Soy un aprendiz del diseño y desarrollo web de Cantabria - España</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsgprofesional&label=Profile%20views&color=0e75b6&style=flat" alt="rsgprofesional" /> </p>
 
