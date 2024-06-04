@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Richard Soto García</h1>
 <h3 align="center">
-<p>Tengo más de 40 años y es ahora cuando he decidido estudiar y dedicarme en serio al Desarrollo y Diseño Web.</p>
+<p>Tengo más de 40 años y es ahora cuando he decidido estudiar y dedicarme en serio al Desarrollo Web.</p>
 <br>
 <p>Mi futuro está aquí y he venido para quedarme.</p>
 </h3>
