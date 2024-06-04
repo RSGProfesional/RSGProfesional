@@ -6,13 +6,12 @@
 <p></p>Mi futuro está aquí y he venido para quedarme.</p>
 </h4>
 <p></p>
+<p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsgprofesional&label=Profile%20views&color=0e75b6&style=flat" alt="rsgprofesional" /> </p>
 
 - 🌱 Conozco y sigo estudiando **Html5, CSS3, JavaScript, Figma, Gulp, Sass, PHP, ...**
 
 - 📫 Puedes contactarme: **rsgprofesional@gmail.com**
-
-
 
 <h3 align="left">Tecnologías y lenguajes:</h3>
 <p></p>
