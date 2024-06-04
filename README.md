@@ -5,8 +5,8 @@
 <p>Tengo más de 40 años y es ahora cuando he decidido estudiar y dedicarme en serio al Desarrollo y Diseño Web.</p>
 <p></p>Mi futuro está aquí y he venido para quedarme.</p>
 </h4>
-<p></p>
-<p></p>
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsgprofesional&label=Profile%20views&color=0e75b6&style=flat" alt="rsgprofesional" /> </p>
 
 - 🌱 Conozco y sigo estudiando **Html5, CSS3, JavaScript, Figma, Gulp, Sass, PHP, ...**
