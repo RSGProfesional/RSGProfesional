@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Richard Soto García</h1>
 <h3 align="center">Soy un apasionado del desarrollo web de Cantabria - España</h3>
-
+<br>
 <h4 align="center">
 <p>Tengo más de 40 años y es ahora cuando he decidido estudiar y dedicarme en serio al Desarrollo y Diseño Web.</p>
 <p></p>Mi futuro está aquí y he venido para quedarme.</p>
